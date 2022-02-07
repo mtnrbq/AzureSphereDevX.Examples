@@ -139,9 +139,3 @@
 [submodule "device_twins_json_object/HardwareDefinitions"]
 	path = device_twins_json_object/HardwareDefinitions
 	url = https://github.com/Azure-Sphere-DevX/AzureSphereDevX.HardwareDefinitions.git
-[submodule "iaq_sphere/AzureSphereDevX"]
-	path = iaq_sphere/AzureSphereDevX
-	url = https://github.com/Azure-Sphere-DevX/AzureSphereDevX.git
-[submodule "iaq_sphere/AzureSphereDevX.HardwareDefinitions"]
-	path = iaq_sphere/AzureSphereDevX.HardwareDefinitions
-	url = https://github.com/Azure-Sphere-DevX/AzureSphereDevX.HardwareDefinitions.git
